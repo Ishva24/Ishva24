@@ -32,6 +32,16 @@ Data analysis and visualization project using advanced Excel features for medica
 - **Tech Stack**: Excel, Data Visualization
 - **Skills**: Business Intelligence, Data Analysis
 
+### 🔐 [Guardian-MCP](https://github.com/Ishva24/Guardian-MCP)
+A security-focused Model Context Protocol (MCP) implementation for managing and monitoring AI agents.
+- **Tech Stack**: TypeScript
+- **Skills**: AI Security, Protocol Implementation
+
+### 🛡️ [Package-Guard---For-AI-Agents](https://github.com/Ishva24/Package-Guard---For-AI-Agents)
+A comprehensive package validation and security tool designed specifically for AI agents to ensure safe dependency management.
+- **Tech Stack**: TypeScript
+- **Skills**: Package Management, AI Agent Safety
+
 ## 🛠️ Technical Skills
 
 **Languages & Frameworks**
